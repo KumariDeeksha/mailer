@@ -1,0 +1,15 @@
+{
+  "name": "node-mailer",
+  "version": "1.0.0",
+  "description": "\"mail sender\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"kumari Deeksha\"",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "nodemailer": "^6.7.3"
+  }
+}
